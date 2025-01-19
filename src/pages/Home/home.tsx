@@ -1,4 +1,3 @@
-import React from "react";
 import FaleEspecialistaComponent from "./Sections/FaleEspecialista/FaleEspecialista";
 import GestaoVendaComponent from "./Sections/GestaoVenda/GestaoVenda";
 import Hero from "./Sections/Hero/Hero";
