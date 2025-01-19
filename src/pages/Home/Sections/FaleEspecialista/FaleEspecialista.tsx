@@ -18,7 +18,7 @@ export default function FaleEspecialistaComponent() {
             >
                 <div className="absolute inset-0 bg-black bg-opacity-15 z-10"></div>
 
-                <div className="flex flex-col justify-end w-full h-full mb-16 lg:container relative z-20">
+                <div className="flex flex-col justify-center w-full h-full mb-0 lg:mb-16 lg:justify-end lg:container relative z-20">
                     <div className="flex px-4 justify-center  items-start w-full mb-6 lg:px-0 lg:justify-normal">
                         <img
                             src={MiniLogo}
