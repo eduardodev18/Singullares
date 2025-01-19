@@ -1,4 +1,3 @@
-import { HeaderComponent } from "../../../../components/Header/Header";
 import MiniLogo from "../../../../assets/images/gr/mini-logo-white.svg";
 
 export default function FaleEspecialistaComponent() {

@@ -1,5 +1,4 @@
 import MiniLogo from "../../../../assets/images/gr/mini-logo-white.svg";
-import { HeaderComponent } from "../../../../components/Header/Header";
 
 export default function GestaoVendaComponent() {
     const data = {
